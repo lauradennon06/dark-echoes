@@ -1,0 +1,17 @@
+main {
+  display: flex;
+  flex-direction: row;
+}
+
+li {
+  list-style: none;
+  border-style: dotted;
+  border-color: black;
+  padding: 5px;
+}
+
+section {
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+}
